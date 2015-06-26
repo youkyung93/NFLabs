@@ -1,2 +1,0 @@
-# NFLabs
-assignment for NFLabs
